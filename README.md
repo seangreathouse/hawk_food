@@ -4,4 +4,4 @@ Small dogs can be Tam Boosters!
   
 [Dog Shirt](https://www.amazon.com/gp/product/B071YM6XVM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
   
-[![Finished Project](./Juno_in_shirt.PNG)]  
+![Finished Project](./Juno_in_shirt.png)
